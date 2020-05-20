@@ -1,0 +1,38 @@
+State,Confirmed,Recovered,Deaths,Active,State_code
+Maharashtra,37136,9639,1325,26172,MH
+Tamil Nadu,12448,4895,85,7468,TN
+Gujarat,12141,5043,719,6379,GJ
+Delhi,11088,5192,176,5720,DL
+Rajasthan,5952,3373,143,2436,RJ
+Madhya Pradesh,5543,2631,260,2652,MP
+Uttar Pradesh,4926,2918,123,1885,UP
+West Bengal,2961,1074,250,1637,WB
+Andhra Pradesh,2560,1664,53,843,AP
+Punjab,2005,1794,38,173,PB
+Telangana,1634,1011,38,585,TG
+Bihar,1579,548,9,1022,BR
+Karnataka,1462,556,41,864,KA
+Jammu and Kashmir,1317,647,17,653,JK
+Odisha,1052,343,6,703,OR
+Haryana,970,628,14,328,HR
+State Unassigned,1096,0,0,1096,UN
+Kerala,667,502,4,161,KL
+Jharkhand,248,127,3,118,JH
+Chandigarh,199,57,3,139,CH
+Tripura,173,116,0,57,TR
+Assam,158,42,4,110,AS
+Uttarakhand,120,53,1,66,UT
+Chhattisgarh,100,59,0,41,CT
+Himachal Pradesh,104,48,4,49,HP
+Goa,46,7,0,39,GA
+Ladakh,43,43,0,0,LA
+Andaman and Nicobar Islands,33,33,0,0,AN
+Puducherry,22,10,0,12,PY
+Meghalaya,13,12,1,0,ML
+Manipur,20,2,0,18,MN
+Mizoram,1,1,0,0,MZ
+Arunachal Pradesh,1,1,0,0,AR
+Dadra and Nagar Haveli and Daman and Diu,1,1,0,0,DN
+Nagaland,0,0,0,0,NL
+Lakshadweep,0,0,0,0,LD
+Sikkim,0,0,0,0,SK

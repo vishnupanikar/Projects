@@ -1,0 +1,33 @@
+body{
+      background-color: #f5f5f5;
+}
+#select-month{
+      width : 30%;
+      margin-left: 62px;
+}
+#select-state{
+      width : 70%;
+      margin-left : 62px;
+}
+h2{
+      text-align: center;
+      color: black;
+}
+
+h4{
+      color: black;
+}
+
+#prompt-month{
+      color: black;
+      margin-left: 62px;
+}
+
+#prompt-state{
+      color:black;
+      margin-left: 62px;
+}
+#info{
+      color: black;
+      margin-left : 100px;
+}
